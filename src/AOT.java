@@ -6,7 +6,7 @@ public class AOT {
 	AOT(double b,double h)
 	{
 		area=(b*h)/2;
-		//Test NK
+		//Test NK122
 	}
 	}
 
